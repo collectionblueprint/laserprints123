@@ -1,2 +1,2 @@
 # laserprints123
-Collection Blueprint test repository
+Collection Blueprint GitHub training repository
