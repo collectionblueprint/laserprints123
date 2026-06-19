@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "laserprints123.com",
+    "description": "",
+    "home_page_url": "https://collectionblueprint.github.io/laserprints123",
+    "feed_url": "https://collectionblueprint.github.io/laserprints123/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Utopia Blueprint"
+    },
+    "items": [
+    ]
+}

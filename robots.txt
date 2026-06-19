@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://collectionblueprint.github.io/laserprints123/sitemap.xml
